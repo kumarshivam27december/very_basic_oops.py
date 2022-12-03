@@ -3,6 +3,21 @@
 kirk = ["James Kirk", 34, "Captain", 2265]
 spock = ["Spock", 35, "Science Officer", 2254]
 mccoy = ["Leonard McCoy", "Chief Medical Officer", 2266]
+student = ["shivam",103,"average",363563]
+
+
+class father:
+    # class attribute
+    humanities = "little bit"
+    
+    def __init__(self,species,planet):
+        self.species=species
+        self.planet=planet
+        
+        
+  
+        
+        
 
 
 class Dog:
